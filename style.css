@@ -1,0 +1,36 @@
+body {
+	padding-left: 2%;
+	padding-right: 2%;
+	background-color: aqua;
+}
+hr {
+	width: 25%;
+}
+#container {
+	background: fixed;
+	background-color: bisque;
+	background-size: 600px 600px;
+	border-style: inset;
+	float: left;
+}
+
+#gridCont {
+	display: grid;
+}
+
+.gridItem {
+	text-align: center;
+	padding: 20px;
+}
+
+#Inf {
+	float: right;
+	border-style: inset;
+	padding-left: 500px;
+}
+
+#Cont2 {
+	border-style: inset;
+	background-color: bisque;
+	padding-top: 40px;
+}
